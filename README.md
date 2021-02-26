@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a mailto:"menezes.s.gilda@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:"menezes.s.gilda@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://linkedin.com/in/gilda-menezes" alt="Linkedin" target="_blank">
